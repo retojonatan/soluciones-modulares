@@ -1,0 +1,20 @@
+{
+  "name": "soluciones-modulares",
+  "version": "1.0.0",
+  "description": "this is a website for soluciones modulares arg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "retojonatan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
